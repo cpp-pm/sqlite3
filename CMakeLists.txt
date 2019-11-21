@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.2)
-project(sqlite3 VERSION 3.21.0)
+project(sqlite3 VERSION 3.30.1)
 
 option(SQLITE_ENABLE_COLUMN_METADATA "FIXME Description" ON)
 option(SQLITE_ENABLE_FTS4  "FIXME Description" ON)
